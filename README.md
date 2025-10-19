@@ -1,1 +1,2 @@
-# GongYieGeiMing
+# 关于这个仓库
+这是Minecraft整合包《工业革命：新纪元》的官方版本仓库
